@@ -12,7 +12,7 @@ var dcQuizQuestion =[
     answer:"Kryptonite"
   },
   {
-    question:"Which hero has the power of 7 gods?\n",
+    question:"Which hero has the power of 6 gods?\n",
     answer: "Shazam"
   }
 ];
